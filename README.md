@@ -4,7 +4,7 @@ Berikut adalah file **README.md** yang telah dirancang dengan baik untuk proyek 
 
 # Navigation Codelab
 
-[![Flutter Version](https://img.shields.io/badge/flutter-v3.10.5-blue)](https://flutter.dev)  
+
 Dibuat oleh **KingPublic**
 
 Proyek ini adalah aplikasi Flutter sederhana yang menunjukkan cara mengimplementasikan navigasi antar layar dengan fitur tambahan seperti **Drawer**, **Bottom Navigation Bar**, dan **Named Routes**. Proyek ini dirancang sebagai bagian dari pembelajaran tentang navigasi di Flutter.
@@ -47,7 +47,7 @@ navigation_codelab/
 ### Langkah-Langkah
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/KingPublic/navigation_codelab.git
+   git clone https://github.com/KingPublic/Advance_navigation_Andreyhs
    ```
 2. Masuk ke direktori proyek:
    ```bash
@@ -61,22 +61,6 @@ navigation_codelab/
    ```bash
    flutter run
    ```
-
----
-
-## 📸 Demo Aplikasi
-
-### First Screen
-Tampilan layar pertama dengan tombol untuk menuju layar kedua:
-![First Screen](https://via.placeholder.com/500x300.png?text=First+Screen)
-
-### Second Screen
-Layar kedua dengan tombol **Back** dan **Bottom Navigation Bar**:
-![Second Screen](https://via.placeholder.com/500x300.png?text=Second+Screen)
-
-### Drawer Menu
-Navigasi ke layar lainnya menggunakan **Drawer**:
-![Drawer](https://via.placeholder.com/500x300.png?text=Drawer)
 
 ---
 
