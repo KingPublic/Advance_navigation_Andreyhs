@@ -8,13 +8,13 @@ class SecondScreen extends StatelessWidget {
       body: Center(
         child: ElevatedButton(
           onPressed: () {
-            Navigator.pop(context); // Kembali ke layar sebelumnya
+            Navigator.pushNamed(context,'/'); //bisajuga pakai pop 
           },
           child: Text('Go Back to First Screen'),
         ),
       ),
       bottomNavigationBar: BottomNavigationBar(
-        items: const <BottomNavigationBarItem>[
+        items: const <BottomNavigationBarItem>[ 
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
             label: 'First Screen',

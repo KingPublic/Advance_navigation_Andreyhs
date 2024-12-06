@@ -18,19 +18,19 @@ class FirstScreen extends StatelessWidget {
             ListTile(
               title: Text('Second Screen'),
               onTap: () {
-                Navigator.pushNamed(context, '/second'); // Pastikan rute ini ada.
+                Navigator.pushNamed(context, '/second'); 
               },
             ),
             ListTile(
               title: Text('Third Screen'),
               onTap: () {
-                Navigator.pushNamed(context, '/third'); // Pastikan rute ini ada.
+                Navigator.pushNamed(context, '/third'); 
               },
             ),
             ListTile(
               title: Text('Fourth Screen'),
               onTap: () {
-                Navigator.pushNamed(context, '/fourth'); // Pastikan rute ini ada.
+                Navigator.pushNamed(context, '/fourth'); 
               },
             ),
           ],
