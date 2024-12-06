@@ -1,6 +1,3 @@
-Berikut adalah file **README.md** yang telah dirancang dengan baik untuk proyek Flutter Anda:
-
----
 
 # Navigation Codelab
 
