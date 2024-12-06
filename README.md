@@ -68,11 +68,22 @@ navigation_codelab/
 
 ---
 
-## 💡 Pembelajaran dan Tantangan
-### Pembelajaran
+## 💡 Pembelajaran/pendekatan dan Tantangan
+### Pembelajaran/pendekatan
 - Cara menggunakan **Navigator** untuk navigasi antar layar.
 - Implementasi **Drawer** dan **Bottom Navigation Bar** untuk struktur navigasi yang kompleks.
 - Pengelolaan rute menggunakan **Named Routes**.
+
+### Pendekatan Proyek
+1. Analisis dan Perencanaan
+Identifikasi semua fitur yang ingin diimplementasikan:
+Navigasi Antar Layar menggunakan Named Routes.
+Drawer untuk menu navigasi.
+Bottom Navigation Bar untuk navigasi antar layar tertentu.
+
+2. Desain alur navigasi antar layar:
+Tentukan layar mana yang akan terhubung.
+Buat peta rute aplikasi untuk memvisualisasikan navigasi.
 
 ### Tantangan
 - Penanganan error seperti **Null Check Operator Used on a Null Value**.

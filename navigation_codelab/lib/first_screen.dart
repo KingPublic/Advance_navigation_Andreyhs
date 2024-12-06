@@ -9,14 +9,15 @@ class FirstScreen extends StatelessWidget {
         child: ListView(
           children: [
             DrawerHeader(
-              decoration: BoxDecoration(color: Colors.blue),
+              decoration: BoxDecoration(color: Colors.orange),
               child: Text(
                 'Menu Navigasi',
-                style: TextStyle(color: Colors.white, fontSize: 24),
+                style: TextStyle(color: Colors.white, fontSize: 25),
               ),
             ),
             ListTile(
               title: Text('Second Screen'),
+              // style: TextStyle(fontSize: ,),
               onTap: () {
                 Navigator.pushNamed(context, '/second'); 
               },

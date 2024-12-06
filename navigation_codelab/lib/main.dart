@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Advance Navigation Codelab - Andreyhs',
       theme: ThemeData(primarySwatch: Colors.blue),
-      // Periksa semua rute telah didefinisikan dengan benar.
+      // berhati hati soal routes
       initialRoute: '/',
       routes: {
         '/': (context) => FirstScreen(),
